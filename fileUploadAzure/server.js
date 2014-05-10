@@ -19,7 +19,7 @@ const key = "CHAVE DE ACESSO PRIMÁRIA" ,
 	//Nome da pasta para onde vão os arquivos
 	container = "fotos" 
 	// CONFIGURANDO EM QUE IP E PORTA O PROJETO VAI RODAR
-	IP = "192.168.1.111" ,
+	IP = "127.0.0.1" ,
 	PORT = "3000";
 
 //seta o html como extensão para as views
