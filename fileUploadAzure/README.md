@@ -8,7 +8,7 @@ Pré requisitos :
     * Conta válida na Azure.
     * Serviço Storage iniciado.
 
-Configurando Credências em server.js:
+Configurando credenciais em server.js:
 
     const key = "CHAVE DE ACESSO PRIMÁRIA" , 
     storage = "NOME DA CONTA DE ARMAZENAMENTO" , 
