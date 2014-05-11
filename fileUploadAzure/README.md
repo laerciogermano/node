@@ -8,11 +8,6 @@ Pré requisitos :
     * Conta válida na Azure.
     * Serviço Storage iniciado.
 
-Iniciando projeto:
-
-    cd fileUploadAzure
-    npm install
-
 Configurando Credências em server.js:
 
     key = "CHAVE DE ACESSO PRIMÁRIA" , 
@@ -25,6 +20,7 @@ Configurando Credências em server.js:
 Rodando projeto:
 
     cd fileUploadAzure
+    npm install
     node server.js
 
 
