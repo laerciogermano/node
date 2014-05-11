@@ -10,13 +10,12 @@ Pré requisitos :
 
 Configurando Credências em server.js:
 
-    key = "CHAVE DE ACESSO PRIMÁRIA" , 
-	  const key = "CHAVE DE ACESSO PRIMÁRIA" , 
-	  storage = "NOME DA CONTA DE ARMAZENAMENTO" , 
-	  container = "fotos" ,
-	  IP = "127.0.0.1" ,
+    const key = "CHAVE DE ACESSO PRIMÁRIA" , 
+    storage = "NOME DA CONTA DE ARMAZENAMENTO" , 
+    container = "fotos" ,
+    IP = "127.0.0.1" ,
     PORT = "3000";
-
+    
 Rodando projeto:
 
     cd fileUploadAzure
